@@ -1,10 +1,9 @@
- .text { 
-  color:orange; 
-  font-size:120%; 
-  font-family:"Times New Roman", Times, serif;
-}  
-
-#text-id { 
+.text {
+   color: orange;
+  font-size: 120%;
+  font-family: "Times New Roman", Times, serif;
+}
+#text-id {
   font-family:"Arial", sans-serif;
-  color:blue
-}  
+  color: blue;
+}
