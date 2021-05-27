@@ -1,9 +1,10 @@
 .text {
-   color: orange;
+  color: orange;
   font-size: 120%;
   font-family: "Times New Roman", Times, serif;
 }
+
 #text-id {
-  font-family:"Arial", sans-serif;
+  font-family: "Arial", sans-serif;
   color: blue;
 }
